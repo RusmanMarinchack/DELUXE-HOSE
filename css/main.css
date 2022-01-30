@@ -550,7 +550,7 @@ body._touch .submenu._submenu-active {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  height: 100vh;
+  height: calc(100vh - 70px);
   margin-top: 70px;
 }
 .main .s-home .blok-social {
